@@ -1,0 +1,3 @@
+<keymap version="1" name="Visual Studio (OSX) copy" parent="Visual Studio OSX">
+  <action id="Jdbc.OpenConsole.New" />
+</keymap>

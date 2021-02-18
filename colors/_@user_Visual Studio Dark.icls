@@ -1,0 +1,14 @@
+<scheme name="_@user_Visual Studio Dark" version="142" parent_scheme="Visual Studio Dark">
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="created">2020-12-09T16:14:53</property>
+    <property name="ide">Rider</property>
+    <property name="ideVersion">2020.2.4.0.0</property>
+    <property name="modified">2020-12-09T16:55:10</property>
+    <property name="originalScheme">Visual Studio Dark</property>
+  </metaInfo>
+  <option name="LINE_SPACING" value="1.2" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
+  <option name="EDITOR_LIGATURES" value="true" />
+</scheme>

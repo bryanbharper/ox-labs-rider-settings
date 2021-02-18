@@ -1,0 +1,6 @@
+<keymap version="1" name="ReSharper (OSX) copy" parent="ReSharper OSX">
+  <action id="EditorMoveUpAndScroll">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+  <action id="List-selectFirstRowExtendSelection" />
+</keymap>
