@@ -27,10 +27,10 @@ In Rider, click **File > Manage IDE Settings > Sync with Settings Repository > O
 
 # Pushing New Settings
 
-> Before pushing new settings, make sure your settings are up to date by following the **Import New Settings* instructions.
+> Before pushing new settings, make sure your settings are up to date by following the *Import New Settings* instructions.
 
 ## 1. Make Settings Change
-In Rider, make the desired setting change.
+In Rider, make the desired setting change. *When you save*, click the down arrow beside the "Save" button, and select "Solution 'data-movement' Team Shared".
 
 ## 2. Overwrite Remote
 In Rider, click **File > Manage IDE Settings > Sync with Settings Repository > Overwrite Remote**.
