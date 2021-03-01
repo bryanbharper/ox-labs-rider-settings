@@ -39,6 +39,7 @@
     <option name="widgets">
       <map>
         <entry key="DpaIcon" value="false" />
+        <entry key="TypeScriptInfo" value="false" />
       </map>
     </option>
   </component>
