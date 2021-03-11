@@ -6,6 +6,7 @@
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
   <action id="EditorSelectWord" />
   <action id="EditorUnSelectWord" />
+  <action id="Jdbc.OpenConsole.New" />
   <action id="List-selectFirstRow" />
   <action id="List-selectFirstRowExtendSelection" />
   <action id="List-selectLastRow" />
