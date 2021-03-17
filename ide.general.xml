@@ -36,11 +36,4 @@
     <entry key="ide.mac.bigsur.window.with.tabs.enabled" value="false" />
     <entry key="rider.enable.designer.winForms" value="true" />
   </component>
-  <component name="StatusBar">
-    <option name="widgets">
-      <map>
-        <entry key="DpaIcon" value="false" />
-      </map>
-    </option>
-  </component>
 </application>
