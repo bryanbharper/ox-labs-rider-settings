@@ -25,10 +25,15 @@
   <action id="MoveLineUp">
     <keyboard-shortcut first-keystroke="alt up" />
   </action>
+  <action id="Rider.Plugins.FSharp.SendToFsi" />
   <action id="ShowSearchHistory" />
   <action id="SmartSelect" />
   <action id="SmartUnSelect" />
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="meta back_slash" />
+  </action>
   <action id="TableResult.GrowSelection" />
   <action id="TableResult.ShrinkSelection" />
   <action id="UsageView.ShowRecentFindUsages" />
+  <action id="com.jetbrains.rider.interactive.csi.SendToCSharpInteractive" />
 </keymap>
