@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping ext="references" type="PLAIN_TEXT" />
       <mapping ext="dependencies" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
