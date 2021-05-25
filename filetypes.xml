@@ -1,6 +1,8 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="JenkinsfilePrf" type="AUTO_DETECTED" />
+      <mapping pattern="JenkinsFilePrf" type="AUTO_DETECTED" />
       <mapping ext="references" type="PLAIN_TEXT" />
       <mapping ext="dependencies" type="PLAIN_TEXT" />
     </extensionMap>
