@@ -34,7 +34,7 @@
     <entry key="ide.mac.bigsur.window.with.tabs.enabled" value="false" />
     <entry key="ea.enable.developers.list" value="false" />
     <entry key="vcs.enable.add.ignored.directories.to.exclude" value="false" />
-    <entry key="rider.enable.designer.winForms" value="false" />
+    <entry key="rider.enable.designer.winForms" value="true" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
