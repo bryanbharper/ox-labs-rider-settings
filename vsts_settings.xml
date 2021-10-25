@@ -46,6 +46,10 @@
           <option name="name" value="lastContextKey" />
           <option name="value" value="//_tfs_last_used_url_" />
         </PropertyState>
+        <PropertyState>
+          <option name="name" value="tfSdkEulaAccepted" />
+          <option name="value" value="true" />
+        </PropertyState>
       </array>
     </option>
   </component>
