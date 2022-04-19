@@ -11,31 +11,6 @@
           <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;85e637dd-69fe-442b-85be-aadefaeb6afe&quot;,&quot;name&quot;:&quot;Integration&quot;,&quot;revision&quot;:50016139,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://tfs.fncinc.com/tfs/Atlas/_apis/projects/85e637dd-69fe-442b-85be-aadefaeb6afe&quot;}" />
           <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;e84fece2-8d96-4d59-88ee-8cde2d81666a&quot;,&quot;name&quot;:&quot;Integration-DirectPay&quot;,&quot;remoteUrl&quot;:&quot;https://tfs.fncinc.com/tfs/Atlas/Integration/_git/Integration-DirectPay&quot;,&quot;url&quot;:&quot;https://tfs.fncinc.com/tfs/Atlas/_apis/git/repositories/e84fece2-8d96-4d59-88ee-8cde2d81666a&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;85e637dd-69fe-442b-85be-aadefaeb6afe&quot;,&quot;name&quot;:&quot;Integration&quot;,&quot;revision&quot;:50016139,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://tfs.fncinc.com/tfs/Atlas/_apis/projects/85e637dd-69fe-442b-85be-aadefaeb6afe&quot;},&quot;_links&quot;:null}" />
         </ServerContextState>
-        <ServerContextState>
-          <option name="type" value="TFS" />
-          <option name="uri" value="http://_TFS_LAST_USED_URL_" />
-          <option name="serverUri" value="http://_TFS_LAST_USED_URL_" />
-          <option name="userId" value="f8291e93-4342-4fbf-ac29-6c190d73b448" />
-          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;def464c3-ae00-4691-83dd-44eb75f524aa&quot;,&quot;name&quot;:&quot;Atlas&quot;,&quot;url&quot;:&quot;https://tfs.fncinc.com/tfs/_apis/projectCollections/def464c3-ae00-4691-83dd-44eb75f524aa&quot;}" />
-          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;85e637dd-69fe-442b-85be-aadefaeb6afe&quot;,&quot;name&quot;:&quot;Integration&quot;,&quot;revision&quot;:50016139,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://tfs.fncinc.com/tfs/Atlas/_apis/projects/85e637dd-69fe-442b-85be-aadefaeb6afe&quot;}" />
-          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;e84fece2-8d96-4d59-88ee-8cde2d81666a&quot;,&quot;name&quot;:&quot;Integration-DirectPay&quot;,&quot;remoteUrl&quot;:&quot;https://tfs.fncinc.com/tfs/Atlas/Integration/_git/Integration-DirectPay&quot;,&quot;url&quot;:&quot;https://tfs.fncinc.com/tfs/Atlas/_apis/git/repositories/e84fece2-8d96-4d59-88ee-8cde2d81666a&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;85e637dd-69fe-442b-85be-aadefaeb6afe&quot;,&quot;name&quot;:&quot;Integration&quot;,&quot;revision&quot;:50016139,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://tfs.fncinc.com/tfs/Atlas/_apis/projects/85e637dd-69fe-442b-85be-aadefaeb6afe&quot;},&quot;_links&quot;:null}" />
-        </ServerContextState>
-        <ServerContextState>
-          <option name="type" value="TFS" />
-          <option name="uri" value="http://tfs.fncinc.com:8080/tfs/atlas" />
-          <option name="serverUri" value="http://tfs.fncinc.com:8080/tfs/atlas" />
-          <option name="userId" value="f8291e93-4342-4fbf-ac29-6c190d73b448" />
-          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:null,&quot;name&quot;:null,&quot;url&quot;:null}" />
-          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:null,&quot;name&quot;:null,&quot;revision&quot;:0,&quot;state&quot;:null,&quot;url&quot;:null}" />
-        </ServerContextState>
-        <ServerContextState>
-          <option name="type" value="TFS" />
-          <option name="uri" value="http://tfs.fncinc.com:8080/tfs/atlas/" />
-          <option name="serverUri" value="http://tfs.fncinc.com:8080/tfs/" />
-          <option name="userId" value="f8291e93-4342-4fbf-ac29-6c190d73b448" />
-          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;def464c3-ae00-4691-83dd-44eb75f524aa&quot;,&quot;name&quot;:&quot;Atlas&quot;,&quot;url&quot;:&quot;http://tfs.fncinc.com:8080/tfs/atlas/_apis/projectCollections/def464c3-ae00-4691-83dd-44eb75f524aa&quot;}" />
-          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Includes the next versions of AppraisalPort, TitlePort, and InspectionPort.&quot;,&quot;id&quot;:&quot;2a99f66c-6906-40ab-8231-84fc9939294e&quot;,&quot;name&quot;:&quot;Ports&quot;,&quot;revision&quot;:50015872,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://tfs.fncinc.com/tfs/Atlas/_apis/projects/2a99f66c-6906-40ab-8231-84fc9939294e&quot;}" />
-        </ServerContextState>
       </array>
     </option>
     <option name="properties">
@@ -51,10 +26,6 @@
         <PropertyState>
           <option name="name" value="tfvcUseReactiveClient" />
           <option name="value" value="false" />
-        </PropertyState>
-        <PropertyState>
-          <option name="name" value="lastContextKey" />
-          <option name="value" value="//_tfs_last_used_url_" />
         </PropertyState>
         <PropertyState>
           <option name="name" value="tfSdkEulaAccepted" />
